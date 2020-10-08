@@ -1,0 +1,2 @@
+For accessibility, every <article> and <section> should be followed by an identifying heading (e.g., <h1> or <h3>).
+Further, your headings should be nested properly and in logical order. Don't skip heading levels.
